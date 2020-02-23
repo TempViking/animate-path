@@ -1,0 +1,26 @@
+{
+  "name": "animate-path",
+  "version": "1.0.4",
+  "description": "Simple path animation module",
+  "main": "dist/animate-path.js",
+  "types": "dist/animate-path.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TempViking/animate-path.git"
+  },
+  "keywords": [
+    "bezier"
+  ],
+  "author": "TempViking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TempViking/animate-path/issues"
+  },
+  "homepage": "https://github.com/TempViking/animate-path#readme",
+  "devDependencies": {
+    "typescript": "^3.8.2"
+  }
+}
